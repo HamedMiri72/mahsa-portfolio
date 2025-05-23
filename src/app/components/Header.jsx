@@ -18,7 +18,7 @@ const Header = () => {
                 <Nav/>
                 <Link href={"/contact"}>
                 
-                    <Button>Hire me</Button>
+                    <Button className="bg-gray-900">Hire me</Button>
                 </Link>
 
             </div>
