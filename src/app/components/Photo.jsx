@@ -9,13 +9,13 @@ const Photo = () => {
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
-        transition={{ duration: 0.4, delay: 2, ease: "easeIn" }}
+        transition={{ duration: 0.4, delay: 1.2, ease: "easeIn" }}
         className="w-full h-full relative"
       >
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          transition={{ duration: 0.4, delay: 2.4, ease: "easeInOut" }}
+          transition={{ duration: 0.4, delay: 1.6, ease: "easeInOut" }}
           className="relative w-[240px] h-[290px] xl:w-[415px] xl:h-[500px] mix-blend-lighten overflow-hidden rounded-[60%]"
         >
           <Image
