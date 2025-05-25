@@ -13,7 +13,7 @@ const status = [
   },
   {
     num: 3,
-    text: "Technologies maastered",
+    text: "Technologies mastered",
   },
   {
     num: 35,
